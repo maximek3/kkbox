@@ -41,7 +41,6 @@ Note that some of them are installed together with either _Anaconda_ or _Jupyter
 
 ## Results
 We achived TOP 9% with a log loss result of 0.12038.
-<a href="https://ibb.co/dcwXZH"><img src="https://thumb.ibb.co/dcwXZH/log_loss_score.png" alt="log loss score" border="0" /></a>
 
 ## Group members
 
