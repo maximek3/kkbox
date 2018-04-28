@@ -20,15 +20,15 @@ First of all check that you don't already have Python installed by entering _pyt
 
 ### For Windows
 
- 1. Download and install Python 3.6 with the `.exe` file from [Download Python for Windows](https://www.python.org/downloads/windows/).
- 2. Download and install Anaconda (package that contains Jupyter Notebooks) from [Download Anaconda for Windows](https://www.anaconda.com/download/#windows).
+ 1. Download and install Python 3.6 with the `.exe` file from [here](https://www.python.org/downloads/windows/).
+ 2. Download and install Anaconda (package that contains Jupyter Notebooks) from [here](https://www.anaconda.com/download/#windows).
  3. Launch Anaconda from Windows Start Menu.
  4. Open Jupyter Notebooks and go to the folder where you have your Jupter Notebook's files.
  
 ### For Mac
 
  1. Download and install Python 3.6 with the by typing 
- 2. Download and install Anaconda (package that contains Jupyter Notebooks) from [Download Anaconda for Windows](https://www.anaconda.com/download/#windows).
+ 2. Download and install Anaconda (package that contains Jupyter Notebooks) from [here](https://www.anaconda.com/download/#windows).
  3. Launch Anaconda from Windows Start Menu.
  4. Open Jupyter Notebooks and go to the folder where you have your Jupter Notebook's files.
  
@@ -48,9 +48,7 @@ First of all check that you don't already have Python installed by entering _pyt
  
 ## Other useful links
 
- - Python official website: [Python oficial website](https://www.python.org/).
- - Python 3.6 documentation: [Python 3.6 documentation](https://docs.python.org/3/).
- - Anaconda documentation: [Anaconda documentation](https://docs.anaconda.com/anaconda/).
- - Jupyter Notebooks documentation: [Jupyter Notebooks documentation](http://jupyter.org/install).
-
- 
+ - [Python oficial website](https://www.python.org/).
+ - [Python 3.6 documentation](https://docs.python.org/3/).
+ - [Anaconda documentation](https://docs.anaconda.com/anaconda/).
+ - [Jupyter Notebooks documentation](http://jupyter.org/install).
