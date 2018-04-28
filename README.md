@@ -36,7 +36,7 @@ First of all check that you don't already have Python installed by entering _pyt
  
 ## Libraries used
 The following libraries are needed: `numpy`, `pandas`, `time`, `sklearn`, `xgboost`, `matplotlib`, `mpld3`, `seaborn` and `datetime`.
-Note that some of them are installed together with either _Anaconda_ or _Jupyter Notebook_.
+\nNote that some of them are installed together with either _Anaconda_ or _Jupyter Notebook_.
 
 ## Group members
 
