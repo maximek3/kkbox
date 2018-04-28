@@ -1,12 +1,11 @@
 # KKBOX CHURN CHALLENGE
 
-![alt text](https://www.python.org/static/community_logos/python-logo-inkscape.svg)
-
 This is a project carried out for the course **CE4041, Machine Learning**, in Nanyang Technological University (Singapore) for Semester 2 2017/18.
 
 The project consists in predicting if a user makes or does not make (churn) a new service subscription transaction in a streaming music online platform (KKBOX) within 30 days after the membership expiration date for that user.
 
 To do this project we used Jupyter Notebooks under Python 3.6.
+![alt text](https://www.python.org/static/community_logos/python-logo-inkscape.svg)
 
 ## Developer's guide
 
@@ -14,6 +13,30 @@ To do this project we used Jupyter Notebooks under Python 3.6.
  2. **Feature Engineering**'s notebooks are stored at `.\Feature Engineering` directory. 
  3. Notebooks for the training and testing of our **model** are stored at `.\Prediction Model` directory. 
 
+## Get started
+Installing Python and its libraries is generally easy. The installation process is shown below for Windows and Mac OS.
+
+First of all check that you don't already have Python installed by entering _python_ in a command line window. If it is already installed, it will show Python version.
+
+### For Windows
+
+ 1. Download and install Python 3.6 with the `.exe` file from [Download Python for Windows](https://www.python.org/downloads/windows/).
+ 2. Download and install Anaconda (package that contains Jupyter Notebooks) from [Download Anaconda for Windows](https://www.anaconda.com/download/#windows).
+ 3. Launch Anaconda from Windows Start Menu.
+ 4. Open Jupyter Notebooks and go to the folder where you have your Jupter Notebook's files.
+ 
+### For Mac
+
+ 1. Download and install Python 3.6 with the by typing 
+ 2. Download and install Anaconda (package that contains Jupyter Notebooks) from [Download Anaconda for Windows](https://www.anaconda.com/download/#windows).
+ 3. Launch Anaconda from Windows Start Menu.
+ 4. Open Jupyter Notebooks and go to the folder where you have your Jupter Notebook's files.
+ 
+ 
+ 
+ 
+ 
+ 
 ## Group members
 
  - Pablo Javier de Paz Carbajo
@@ -21,7 +44,13 @@ To do this project we used Jupyter Notebooks under Python 3.6.
  - Maxime Kayser
  - Ragnhild Skirdal Froehaug
  - Martha Honganvik Andersen
- 
- ## Developer's guide
 
-  - Raw data is stored at `.\raw data\Kaggle` directory. Training data file is quite large, containing over 500,000 training data pairs. Hence, subset of training data is extracted and stored at `.\raw data\subset`. These files contain training data pairs from 1 to 10,000.
+ 
+## Other useful links
+
+ - Python official website: [Python oficial website](https://www.python.org/).
+ - Python 3.6 documentation: [Python 3.6 documentation](https://docs.python.org/3/).
+ - Anaconda documentation: [Anaconda documentation](https://docs.anaconda.com/anaconda/).
+ - Jupyter Notebooks documentation: [Jupyter Notebooks documentation](http://jupyter.org/install).
+
+ 
