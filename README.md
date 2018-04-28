@@ -40,7 +40,7 @@ The following libraries are needed: `numpy`, `pandas`, `time`, `sklearn`, `xgboo
 Note that some of them are installed together with either _Anaconda_ or _Jupyter Notebook_.
 
 ## Results
-We achived TOP 9% with a log loss result of 0.12038.
+We achived **TOP 9%** with a log loss result of **0.12038**.
 
 ## Group members
 
