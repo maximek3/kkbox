@@ -1,6 +1,6 @@
 # KKBOX CHURN CHALLENGE
 
-![alt text](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+![alt text](https://www.python.org/static/community_logos/python-logo-inkscape.svg)
 
 This is a project carried out for the course **CE4041, Machine Learning**, in Nanyang Technological University (Singapore) for Semester 2 2017/18.
 
