@@ -34,11 +34,10 @@ First of all check that you don't already have Python installed by entering _pyt
  3. Launch **Terminal** and type `jupyter notebook`.
  4. Once Jupyter Noteboo is open, browse to the folder where you have your Jupter Notebook's files.
  
- 
- 
- 
- 
- 
+## Libraries used
+The following libraries are needed: `numpy`, `pandas`, `time`, `sklearn`, `xgboost`, `matplotlib`, `mpld3`, `seaborn` and `datetime`.
+Note that some of them are installed together with either _Anaconda_ or _Jupyter Notebook_.
+
 ## Group members
 
  - Pablo Javier de Paz Carbajo
