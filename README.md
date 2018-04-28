@@ -29,8 +29,8 @@ First of all check that you don't already have Python installed by entering _pyt
 
  1. Download and install Python 3.6 with the by typing `.pkg` fie from [here](https://www.python.org/downloads/mac-osx/).
  2. Download and install Jupyter Notebooks by typing into the terminal:
- - `python3 -m pip install --upgrade pip`
- - `python3 -m pip install jupyter`
+    `python3 -m pip install --upgrade pip`
+    `python3 -m pip install jupyter`
  3. Launch **Terminal** and type `jupyter notebook`.
  4. Once Jupyter Noteboo is open, browse to the folder where you have your Jupter Notebook's files.
  
