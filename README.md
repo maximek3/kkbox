@@ -9,7 +9,7 @@ To do this project we used Jupyter Notebooks under Python 3.6.
 
 ## Developer's guide
 
- 1. **Data exploration**'s notebooks are stored at `.\Data Exploration` directory. There are 3 files for each of the datasets: _transactions_, _user logs_ and _members_. notebooks are stored at `.\Data Exploration` directory.
+ 1. **Data exploration**'s notebooks are stored at `.\Data Exploration` directory. There are 3 files for each of the datasets: _transactions_, _user logs_ and _members_. Inside this directory there is a file called `Loading_user_logs_FINAL.ipynb` that is used to load all the _user logs_ data (around 30GB).
  2. **Feature Engineering**'s notebooks are stored at `.\Feature Engineering` directory. 
  3. Notebooks for the training and testing of our **model** are stored at `.\Prediction Model` directory. 
 
